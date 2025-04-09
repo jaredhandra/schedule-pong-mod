@@ -1,7 +1,7 @@
 using MelonLoader;
 using HarmonyLib;
-using Il2CppScheduleOne.Product;
-using Il2CppScheduleOne.PlayerScripts;
+using ScheduleOne.Product;
+using ScheduleOne.PlayerScripts;
 
 [assembly: MelonInfo(typeof(ExampleMod.ExampleMod), ExampleMod.BuildInfo.Name, ExampleMod.BuildInfo.Version, ExampleMod.BuildInfo.Author, ExampleMod.BuildInfo.DownloadLink)]
 [assembly: MelonColor()]
