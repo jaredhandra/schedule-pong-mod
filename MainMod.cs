@@ -5,7 +5,6 @@ using Il2CppScheduleOne.PlayerScripts;
 
 [assembly: MelonInfo(typeof(ExampleMod.ExampleMod), ExampleMod.BuildInfo.Name, ExampleMod.BuildInfo.Version, ExampleMod.BuildInfo.Author, ExampleMod.BuildInfo.DownloadLink)]
 [assembly: MelonColor()]
-[assembly: MelonOptionalDependencies("FishNet.Runtime")]
 [assembly: MelonGame("TVGS", "Schedule I")]
 
 namespace ExampleMod
