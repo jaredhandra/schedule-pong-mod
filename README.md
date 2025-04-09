@@ -13,4 +13,4 @@ Example template and instructions for modding Schedule I Mono version
   - Then you must navigate to C:\Program Files (x86)\Steam\steamapps\common\Schedule I\Schedule I_Data\Managed
   - From here you will need two files: Assembly-CSharp.dll and UnityEngine.CoreModule.dll, copy these two files into the libs folder. (Also specified in the .csproj file)
 
-- After these steps are done, you are ready to code your own logics. See the Template Class1.cs file for the basic requirements for Harmony and MelonLoader.
+- After these steps are done, you are ready to code your own logics. See the Template MainMod.cs file for the basic requirements for Harmony and MelonLoader.
