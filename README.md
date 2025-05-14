@@ -46,3 +46,4 @@ To Publicize the Assembly-CSharp.dll file with BepInEx Publicizer:
 ```
 
 - You should now be able to access the private properties, functions, fields within the ScheduleOne namespace classes.
+"# schedule-pong-mod" 
